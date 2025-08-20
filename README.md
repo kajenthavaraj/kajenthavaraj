@@ -11,7 +11,7 @@
 ###
 
 <p align="left">I'm currently working on:<br><br>
-<a href="https://github.com/kajenthavaraj/smart_mirror_v2">🪞 Smart Mirror</a>: Building a smart mirror with the software written in Java to run as an application on a Raspberry Pi Zero<br>
+<a href="https://github.com/kajenthavaraj/smart_mirror_v2">🪞 Smart Mirror</a>: Building a smart mirror using a Raspberry Pi Zero with the software written in Java<br>
 🤖 Robotic Hand (EMG-Controlled): Developing a robotic hand prototype controlled via EMG sensors to recognize and reproduce hand gestures<br>
 ⚡ CUDA Optimizer: Designing a program that leverages LLMs to analyze and optimize CUDA code for faster GPU performance
 <br><br>

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a builder, hacker, and Computer Engineering student at the University of Toronto who loves working on AI, startups, and cool side projects 🚀</p>
+<p align="left">I'm a computer engineering student at the University of Toronto. I like building cool things and working on startups 🚀</p>
 
 ###
 

@@ -17,8 +17,9 @@
 <br><br>
 
 Work History:<br><br>
-📲 CallFusion (Co-Founder): Automated processes for mortgage brokerages using AI<br>
-🎯 Targify (Software Engineer): Sales tool that used AI and web browser automation to generate sales videos and automate cold emails
+📲 CallFusion (Co-Founder): Automated processes for mortgage brokerages using AI.<br>
+🎯 Targify (Software Engineer): Sales tool that used AI and web browser automation to generate sales videos and automate cold emails.<br>
+🌐 Ionic X (Co-Founder): eCommerce advertising agency. Grew revenue to $100k ARR.
 <br><br>
 
 Hackathons / Projects:<br><br>

@@ -23,7 +23,9 @@ Work History:<br><br>
 <br><br>
 
 Hackathons / Projects:<br><br>
-<a href="https://github.com/kajenthavaraj/serenityhelp">💡 SerenityHelp (CalHacks)</a>: AI mental health helpline that used live sentiment analysis. Built using Groq, FetchAI, and Vapi<br>
+<a href="https://github.com/kajenthavaraj/serenityhelp">💡 SerenityHelp (CalHacks)</a>: AI mental healthelpine using VoiceAI to triage incoming calls based on live sentiment analysis. Deployed using Groq and HuggingFace.
+
+AI mental health helpline that used live sentiment analysis. Built using Groq, FetchAI, and Vapi<br>
 🏆 TalkLogic (GeeseHacks 2nd place): Conversational AI evaluation + data synthesis platform to reduce manual testing of AI tools; won 2nd overall at GeeseHacks Waterloo<br>
 <a href="https://github.com/kajenthavaraj/emg_classifier">✋ EMG Classifier</a>: Machine learning model to classify hand movements using EMG data<br>
 🌿 Thryve (UofT Hacks): A mobile app for task, habit, and goal tracking, featuring a voice-powered AI life coach that periodically calls users to give advice, provide motivation, and set goals

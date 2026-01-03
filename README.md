@@ -11,15 +11,15 @@
 ###
 
 <p align="left">I'm currently working on:<br><br>
-<a href="https://github.com/kajenthavaraj/smart_mirror_v2">🪞 Smart Mirror</a>: Building a smart mirror using a Raspberry Pi Zero with the software written in Java<br>
 🤖 Robotic Hand (EMG-Controlled): Developing a robotic hand prototype controlled via EMG sensors to recognize and reproduce hand gestures<br>
 ⚡ CUDA Optimizer: Using an agentic framework to optimize CUDA code for faster GPU performance.
 <br><br>
 
 Work History:<br><br>
-📲 CallFusion (Co-Founder): Automated processes for mortgage brokerages using AI.<br>
-🎯 Targify (Software Engineer): Sales tool that used AI and web browser automation to generate sales videos and automate cold emails.<br>
-🌐 Ionic X (Co-Founder): eCommerce advertising agency. Grew revenue to $100k ARR.
+🦾 Software Engineer @ Figure AI.<br>
+📲 Co-Founder @ CallFusion: Built and exited a voiceAI startup.<br>
+🎯 Software Engineer @ Targify: Sales tool that used AI and web browser automation to generate sales videos and automate cold emails.<br>
+🌐 Co-Founder @ Ionic X: eCommerce advertising agency. Grew revenue to $100k ARR.
 <br><br>
 
 Hackathons / Projects:<br><br>
